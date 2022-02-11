@@ -1,5 +1,5 @@
 # How to Use API Keys
-This document describes API Keys with OpenWeather API by using Server-side calls. This document does not describe the use of Client Side API.
+This document details the use of API Keys for OpenWeather API within your Server-side calls. This document does not describe the use of Client Side API calls.
 
 # Server Side API 
 Server-side APIs allow developers to access data made available by third-party companies and organizations. The reason the APIs are called server-side APIs is because the code executes on the server before being is sent to the browser.
