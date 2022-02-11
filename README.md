@@ -1,5 +1,5 @@
 # How to Use API Keys
-This document describes the use of API Keys with OpenWeather by using Server-side calls. This document does not describe the use of Client Side API  
+This document describes API Keys with OpenWeather API by using Server-side calls. This document does not describe the use of Client Side API.
 
 # Server Side API 
 *Server-side APIs* allow developers to access data made available by third-party companies and organizations. The reason the APIs are called server-side APIs is because the code executes on the server before being is sent to the browser.
@@ -72,9 +72,9 @@ Replace the relevant placeholders in the URL with your variables.
 
 Parameters are the variable terms that you can add to an API call to specify the data you want to request.
 
-  **q**: The **query** parameter, where you'll add the city variable.
+##  **q**: The **query** parameter, where you'll add the city variable.
 
-  **appid**: The **application idor** where you'll add the API key variable.
+##  **appid**: The **application idor** where you'll add the API key variable.
 
 In the API reference below create a new variable queryURL.
 
