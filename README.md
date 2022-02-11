@@ -74,7 +74,7 @@ Parameters are the variable terms that you can add to an API call to specify the
 
 **q**: The **query** parameter, where you'll add the city variable.
 
-**appid**: The **application idor** where you'll add the API key variable.
+**appid**: The **application id** where you'll add the API key variable.
 
 In the API reference below create a new variable queryURL.
 
