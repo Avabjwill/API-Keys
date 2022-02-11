@@ -21,8 +21,8 @@ In time, you'll learn how to create these requests on the  server-side of your a
 
 - [SERVER SIDE API](#server-side-api)
 - [REQUEST AN API KEY](#request-an-api-key)
-- [CREATE VARIABLES FOR API KEY](#create-variables-for-api-key)
-- [CONSTRUCT A QUERY TO MAKE THE API CALL](#construct-a-query-to-make-the-api-call)
+- [CREATE A VARIABLE TO STORE THE API KEY](#create-variable-to-store-the-API-Key)
+- [CONSTRUCT A QUERY URL TO MAKE THE API CALL](#construct-a-query-url-to-make-the-api-call)
 - [PASSING PARAMETERS](#passing-parameters)
 - [MAKE AN API CALL](#make-an-api-call)
 
@@ -81,5 +81,7 @@ In the API reference below create a new variable: queryURL.
 ```sh
 var queryURL = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + APIKey;
 ```
+
+# Make an API Call
 
 To call your API you can construct a variable to hold your variable queryURL.
