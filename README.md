@@ -76,10 +76,10 @@ Parameters are the variable terms that you can add to an API call to specify the
 
 **appid**: The **application id** parameter, here you'll add the API key variable.
 
-In the API reference below create a new variable queryURL.
+In the API reference below create a new variable: queryURL.
 
 ```sh
 var queryURL = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + APIKey;
 ```
 
-To call your API you can construct a variable to hold your query URL.
+To call your API you can construct a variable to hold your variable queryURL.
