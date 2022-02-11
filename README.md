@@ -72,9 +72,9 @@ Replace the relevant placeholders in the URL with your variables.
 
 Parameters are the variable terms that you can add to an API call to specify the data you want to request.
 
-**q**: The **query** parameter, where you'll add the city variable.
+  **q**: The **query** parameter, where you'll add the city variable.
 
-**appid**: The **application idor** where you'll add the API key variable.
+  **appid**: The **application idor** where you'll add the API key variable.
 
 In the API reference below create a new variable queryURL.
 
